@@ -8,5 +8,5 @@ far enough to produce at least a handful of interesting plots.
 
 ## Notebooks
 
-* [(2020-09-22) Himalayan Climbing Expeditions](https://nbviewer.jupyter.org/github/zgana/tidytuesday/blob/main/2020/2020-09-22.ipynb)
-* [(2020-11-10) Historical Phone Usage](https://nbviewer.jupyter.org/github/zgana/tidytuesday/blob/main/2020/2020-11-10.ipynb)
+* [2020-09-22: Himalayan Climbing Expeditions](https://nbviewer.jupyter.org/github/zgana/tidytuesday/blob/main/2020/2020-09-22.ipynb)
+* [2020-11-10: Historical Phone Usage](https://nbviewer.jupyter.org/github/zgana/tidytuesday/blob/main/2020/2020-11-10.ipynb)
