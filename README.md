@@ -9,6 +9,7 @@ far enough to produce at least a handful of interesting plots.
 ## Notebooks
 
 * [2019-10-29: NYC Squirrel Census](https://nbviewer.jupyter.org/github/zgana/tidytuesday/blob/main/2019/2019-10-29.ipynb)
+* [2019-12-03: Philly Parking Tickets](https://nbviewer.jupyter.org/github/zgana/tidytuesday/blob/main/2019/2019-12-03.ipynb)
 * [2020-09-22: Himalayan Climbing Expeditions](https://nbviewer.jupyter.org/github/zgana/tidytuesday/blob/main/2020/2020-09-22.ipynb)
 * [2020-11-10: Historical Phone Usage](https://nbviewer.jupyter.org/github/zgana/tidytuesday/blob/main/2020/2020-11-10.ipynb)
 * [2021-02-23: Employment and Earnings](https://nbviewer.jupyter.org/github/zgana/tidytuesday/blob/main/2021/2021-02-23.jl.ipynb) (in Julia)
